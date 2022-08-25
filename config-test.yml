@@ -1,1 +1,4 @@
-test
+spring:
+  name: test
+config:
+  info: version1.0
