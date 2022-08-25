@@ -1,1 +1,4 @@
-dev
+spring:
+  name: dev
+config:
+  info: version1.0
