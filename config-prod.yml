@@ -1,1 +1,4 @@
-prod
+spring:
+  name: prod
+config:
+  info: version1.0
