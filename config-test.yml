@@ -1,4 +1,4 @@
 spring:
   name: test
 config:
-  info: version1.0
+  info: test-version2.0
