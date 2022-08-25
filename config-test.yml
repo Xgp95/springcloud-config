@@ -1,4 +1,4 @@
 spring:
   name: test
 config:
-  info: test-version7.0
+  info: test-version8.0
