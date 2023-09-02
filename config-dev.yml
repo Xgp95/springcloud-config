@@ -1,4 +1,4 @@
 spring:
   name: master/dev
 config:
-  info: version2.0
+  info: version3.0
